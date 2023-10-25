@@ -1,11 +1,11 @@
 body {
     background-color: aqua;
 }
- {
+#titulo {
     text-align: center;
     font-size: 30px;
 }
-p { 
+.texto { 
 text-align: center; 
 font-size: 20px;
 }
